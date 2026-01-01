@@ -1,6 +1,8 @@
 # Oncology Document Analyzer System
 ODAS is a part of Project Based Learning. It focuses on delivering oncology-specific knowledge discovery through the application of NLP and Machine Learning, enabling improved drug advisory and diagnostic solutions
 
+[facebook/nllb-200-distilled-600M](https://huggingface.co/google/gemma-3-270m)
+
 ### Project Structure
     .
     ├── venv
